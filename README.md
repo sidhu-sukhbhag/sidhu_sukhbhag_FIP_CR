@@ -16,7 +16,7 @@ Open the index file in your browser of choice
 
 
 ## Credits
-Created by Keith Lie
+Created by Sidhu_Sukhbhag
 
 ## License
 Copyright (c) 2024 sidhu-sukhbhag
