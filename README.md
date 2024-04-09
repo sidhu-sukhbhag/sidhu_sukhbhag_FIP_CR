@@ -1,4 +1,8 @@
 # sidhu_sukhbhag_FIP_CR
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
 This is a repo to show Couples Resort redesigned website in mobile version for Final Integrated Project in Fanshawe College's Interactive Media Design Program Level 1 (Winter 2024 Class).
 
 Pages that are available are:
@@ -39,4 +43,8 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+<<<<<<< Updated upstream
 SOFTWARE.
+=======
+SOFTWARE.
+>>>>>>> Stashed changes
