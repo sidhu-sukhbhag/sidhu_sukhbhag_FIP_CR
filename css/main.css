@@ -455,6 +455,7 @@ textarea {
    box-sizing: border-box;
 }
 
+
 .send-button {
    width: 100px;
    align-self: flex-end;
@@ -468,9 +469,22 @@ textarea {
    transition: background-color 0.3s ease;
 }
 
-.send-button:hover {
-   background-color: #0056b3;
+@keyframes send-button {
+   from{
+      border-radius: 5px;
+      color: #ffffff;
+      background-color: #000000;
+   }
+
+   to{
+      border-radius: 30px;
+      background-color: #0056b3;
+      color: #fc0075;
+      transition: scale(2.2);
+      border: #000000 1px solid;
+   }
 }
+
 
 
 
@@ -624,3 +638,4 @@ input[type="checkbox"]:checked + span::after {
 
    animation: fadeIn 0.7s;
 }
+

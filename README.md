@@ -3,7 +3,7 @@
 This is a repo to show Couples Resort redesigned website in mobile version for Final Integrated Project in Fanshawe College's Interactive Media Design Program Level 1 (Winter 2024 Class).
 
 Pages that are available are:
-- Homepage
+- Spa Activities Page
 - Rooms Page
 - Contact Page
 
