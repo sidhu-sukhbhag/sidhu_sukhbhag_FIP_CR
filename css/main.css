@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 #mobile-outline {
     outline: 20px solid #000000;
     max-width: 412px;
@@ -6,6 +7,9 @@
  } 
  
  body {
+=======
+ #body {
+>>>>>>> Stashed changes
     color: #626262;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
  }
@@ -28,7 +32,7 @@
    height: auto;
 }
  
- a {
+a {
     text-decoration: none;
     transition: all .5s ease-in-out;
  }
